@@ -1,0 +1,1 @@
+The program is educational software that allows the creation, and assessments of quizzes. The program has three main functions: allow instructors to create exams, enable students to take these exams, and demonstrate their results.
