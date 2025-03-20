@@ -1,0 +1,92 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": [
+            "Madrid",
+            "Rome",
+            "Paris",
+            "Berlin"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": [
+            "Mars",
+            "Jupiter",
+            "Saturn",
+            "Venus"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Who wrote the play 'Romeo and Juliet'?",
+        "options": [
+            "William Shakespeare",
+            "George Orwell",
+            "J.K. Rowling",
+            "Leo Tolstoy"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which gas is most abundant in Earth's atmosphere?",
+        "options": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Nitrogen",
+            "Hydrogen"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the largest ocean on Earth?",
+        "options": [
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Arctic Ocean",
+            "Pacific Ocean"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Who discovered gravity?",
+        "options": [
+            "Isaac Newton",
+            "Albert Einstein",
+            "Galileo Galilei",
+            "Nicolaus Copernicus"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the smallest country in the world?",
+        "options": [
+            "Monaco",
+            "Vatican City",
+            "San Marino",
+            "Liechtenstein"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which element has the chemical symbol 'O'?",
+        "options": [
+            "Oxygen",
+            "Osmium",
+            "Oxide",
+            "Octane"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the boiling point of water at sea level in Celsius?",
+        "options": [
+            "90\u00c2\u00b0C",
+            "100\u00c2\u00b0C",
+            "120\u00c2\u00b0C",
+            "150\u00c2\u00b0C"
+        ],
+        "answer": 2
+    }
+]
