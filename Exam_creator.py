@@ -899,7 +899,7 @@ def create_account():
             messagebox.showerror("Error", "Age must be a positive number.")
             return
 
-        xlsx_path = "database el5alaba.xlsx"
+        xlsx_path = "database.xlsx"
         try:
             workbook = load_workbook(xlsx_path)
         except FileNotFoundError:
@@ -934,7 +934,7 @@ def create_account():
                 messagebox.showerror("Error", "Please fill in Name, Email, and Phone Number.")
                 return
             try:
-                workbook = load_workbook("database el5alaba.xlsx")
+                workbook = load_workbook("database.xlsx")
                 worksheet = workbook.active
                 for row in worksheet.iter_rows(values_only=True):
                     if row[0] == name and row[2] == email and row[3] == phone:
@@ -1026,7 +1026,7 @@ def create_account():
     forget_button.grid(row=6, column=1, padx=10, pady=10, sticky="w")
 
 def user_check():
-    xlsx_path = "database el5alaba.xlsx"
+    xlsx_path = "database.xlsx"
     try:
         workbook1 = load_workbook(xlsx_path)
         worksheet = workbook1.active
