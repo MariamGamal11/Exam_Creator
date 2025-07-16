@@ -24,3 +24,14 @@ The program is A cross‑platform Python/Tkinter desktop application that lets i
 • Receive instant results (score, percent, letter grade)
 
 • Highest attempt automatically saved as final grade
+
+## How to Run
+#### To run the Exam Creator application:
+
+1. Download or clone this repository to your local machine.
+
+2. Open the file Exam_creator.py in any Python-supported IDE (such as VS Code, PyCharm, or Thonny).
+
+3. Make sure you have Python installed, then run the program to launch the application.
+
+Note: Ensure the JSON_files, Images, and database.xlsx files remain in the same directory as Exam_creator.py, as they are required for the application to function properly.
