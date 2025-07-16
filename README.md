@@ -1,5 +1,5 @@
 The program is A cross‑platform Python/Tkinter desktop application that lets instructors build, deliver, and grade multiple‑choice quizzes while giving students an intuitive test‑taking and feedback experience.
----
+
 ## Features
 
 ### Instructor:
@@ -11,6 +11,7 @@ The program is A cross‑platform Python/Tkinter desktop application that lets i
 • Specify total questions, points per question, and correct answers
 
 • Publish exams for students
+---
 
 ### Student:
 
